@@ -79,7 +79,7 @@ My goal is to combine **technology and design** to create products that are both
 
 <p align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:johnmburu10821@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
 </a>
 
